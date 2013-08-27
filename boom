@@ -1,2 +1,0 @@
-easy_install --upgrade google-api-python-client
-easy_install https://python-gflags.googlecode.com/files/python_gflags-2.0-py2.6.egg
