@@ -1,4 +1,4 @@
-lobster
+% lobster
 
 # Install
     curl -O https://raw.github.com/loBsTer-xxx/lobster/master/libytdl
