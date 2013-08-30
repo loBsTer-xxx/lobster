@@ -10,5 +10,5 @@
     sudo mv com.my.libytdl.daemon.plist /Library/LaunchDaemons/
 
 # ffmpeg
-    Linux: http://johnvansickle.com/ffmpeg/
+    Linux: http://ffmpeg.gusari.org/static/
     Mac: http://ffmpegmac.net/
